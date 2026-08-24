@@ -99,7 +99,8 @@ http://localhost:5173
 
 ## 📷 Project Preview
 
-Add your screenshot here after uploading it to GitHub.
+<img width="1170" height="650" alt="image" src="https://github.com/user-attachments/assets/ad9c177c-54fe-4f14-b707-d4848bc38613" />
+
 
 ```
 assets/project-preview.png
